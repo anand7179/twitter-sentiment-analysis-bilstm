@@ -37,6 +37,14 @@ Deep Learning based Twitter Sentiment Analysis project using Bidirectional LSTM 
 - Sentiment140 Twitter Dataset
 - Source: Kaggle
 
+### Dataset Sampling
+
+Due to the large size of the Sentiment140 dataset, a stratified 25% sample was selected to reduce training time while preserving balanced class distribution between positive and negative sentiments.
+
+### Class Distribution
+
+![Class Distribution](images/class_distribution.png)
+
 ---
 
 ## 🛠 Technologies Used
