@@ -72,4 +72,4 @@ The trained model is saved for future sentiment prediction tasks.
 
 ## 👨‍💻 Author
 
-Your Name
+Pallapu Anand
